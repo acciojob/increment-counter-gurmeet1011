@@ -1,19 +1,11 @@
-/*  your css code here. If applicable */
-#num{
-	display: flex;
-    justify-content: center; 
-    align-items: center; 
-	background-color:black;
-	color:white;
-	padding:20px
-}
+
 #container{
 	display: flex;
     justify-content: center; 
     align-items: center; 
 	height:100vh;
 }
-.btn {
+.incrementBtn {
   padding: 10px 20px;
   font-size: 16px;
 }
