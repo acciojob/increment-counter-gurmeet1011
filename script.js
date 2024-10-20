@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const countValue = document.getElementById('num');
+const countValue = document.getElementById("counter");
 function increment(){
     // get the vlue from UI
 	
