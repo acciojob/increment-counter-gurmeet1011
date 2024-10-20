@@ -4,7 +4,7 @@ function increment(){
     // get the vlue from UI
 	
     let value = parseInt(countValue.innerText);
-	alert("The current value is: " + value)
+	alert(value)
     //Update the value
     value = value + 1;
     //set the value onto UI
